@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![shiyunjin Stat](https://github-readme-stats-shiyunjin.vercel.app/api?theme=default&count_private=true&username=shiyunjin&show_icons=true)
+![shiyunjin Stat](https://github-readme-stats-shiyunjin.vercel.app/api?theme=graywhite&count_private=true&username=shiyunjin&show_icons=true)
