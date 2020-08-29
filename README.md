@@ -14,5 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![shiyunjin top lang](https://github-readme-stats.shiyunjin.vercel.app/api/top-langs/?theme=graywhite&count_private=true&username=shiyunjin&layout=compact)
+
 ![shiyunjin Stat](https://github-readme-stats-shiyunjin.vercel.app/api?theme=graywhite&count_private=true&username=shiyunjin&show_icons=true&include_all_commits=true)
+![shiyunjin top lang](https://github-readme-stats.shiyunjin.vercel.app/api/top-langs/?theme=graywhite&count_private=true&username=shiyunjin&layout=compact)
