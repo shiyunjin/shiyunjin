@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 
 ![shiyunjin Stat](https://github-readme-stats-shiyunjin.vercel.app/api?theme=graywhite&count_private=true&username=shiyunjin&show_icons=true&include_all_commits=true&hide_border=true)
-![shiyunjin top lang](https://github-readme-stats.shiyunjin.vercel.app/api/top-langs/?theme=graywhite&count_private=true&username=shiyunjin&layout=compact&hide_border=true)
+![shiyunjin top lang](https://github-readme-stats.shiyunjin.vercel.app/api/top-langs/?theme=graywhite&count_private=true&username=shiyunjin&hide_border=true)
