@@ -37,7 +37,7 @@
 | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.shiyunjin.vercel.app/api?theme=graywhite&count_private=true&username=shiyunjin&show_icons=true&include_all_commits=true&hide_border=true" alt="shiyunjin's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.shiyunjin.vercel.app/api/top-langs/?theme=graywhite&count_private=true&username=shiyunjin&layout=compact&hide_border=true&hide=html" /></a> |
 | ------------- | ------------- |
 
-Feel free to contact me :yum:
+Feel free to contact me 😼
 <br><br>
 [<img src="https://img.shields.io/badge/Telegram-%40shiyunjin-28a8ea">](https://t.me/shiyunjin)
 [<img src="https://img.shields.io/badge/Email-to%40shiyunjin.cn-orange">](mailto:to@shiyunjin.cn)
