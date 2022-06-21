@@ -40,4 +40,4 @@ Feel free to contact me :yum:
 <br><br>
 [<img src="https://img.shields.io/badge/Telegram-%40shiyunjin-28a8ea">](https://t.me/shiyunjin)
 [<img src="https://img.shields.io/badge/Email-to%40shiyunjin.cn-orange">](mailto:to@shiyunjin)
-[<img src="https://img.shields.io/badge/Personal%20Site-blog.shiyunjin.com-red">](https://blog.shiyunjin.comv)
+[<img src="https://img.shields.io/badge/Personal%20Site-blog.shiyunjin.com-red">](https://blog.shiyunjin.com/)
